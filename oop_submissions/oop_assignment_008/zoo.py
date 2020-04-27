@@ -100,11 +100,7 @@ class Zoo(Animals):
 		for animal in zoo_name:
 			c+=animal.count_animals()
 		return c
-	
-	
-	
-	
-	
-	
+		
+
 	
 	
